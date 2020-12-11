@@ -16,7 +16,7 @@
 golem::fill_desc(
   pkg_name = "golex", # The Name of the package containing the App 
   pkg_title = "golexFitnessApp", # The Title of the package containing the App 
-  pkg_description = "Dashboard for monitoring Fitbod based on Liz Nelson post.", # The Description of the package containing the App 
+  pkg_description = "Dashboard for monitoring Fitbod based on Liz Nelson post in Towards Data Science.", # The Description of the package containing the App 
   author_first_name = "David", # Your First Name
   author_last_name = "Zoller", # Your Last Name
   author_email = "david.l.zoller@gmail.com", # Your Email
